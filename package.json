@@ -1,0 +1,18 @@
+{
+  "name": "howto-node-module",
+  "version": "0.0.1",
+  "description": "Code used to explain how to write a simple nodejs module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Rezzonico <gabrielrezzonico@gmail.com",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/gabrielrezzonico/howto-node-module.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "*"
+  }
+}
